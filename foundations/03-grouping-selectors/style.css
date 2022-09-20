@@ -1,0 +1,12 @@
+.button1 {
+    font-family:"TimesNewRoman", Helvetica, sans-serif;
+    font-size: 28px; 
+}
+.Yes{
+    color:white; 
+    background-color: black;
+}
+.No {
+    
+    background-color: rgb(242, 246, 2);
+}
